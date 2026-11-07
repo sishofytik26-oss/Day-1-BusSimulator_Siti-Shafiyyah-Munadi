@@ -8,9 +8,10 @@ Repository ini merupakan dokumentasi kegiatan *Workshop Day-1* pada acara TIK Me
 Repository ini bertujuan agar menyimpan dan mengingat kembali serta memahami pembelajaran yang disampaikan selama kegiatan *Workshop Day-1* berjalan.
 ## Dokumentasi Kegitan Workshop Day-1
 ### Rangkuman Materi
-GIT adalah version control system yang melacak siapa, kapan, dan apa saja yang sudah diubah dalam 1 file.
-
+GIT adalah version control system yang melacak siapa, kapan, dan apa saja yang sudah diubah dalam 1 file
 Essensial Git Command
 - git init (untuk memulai repository baru)
 - git add (memindahkan file ke staging area)
-- git commit (
+- git commit (menyimpan file ke repository)
+
+ 
