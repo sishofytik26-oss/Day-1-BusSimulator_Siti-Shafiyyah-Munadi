@@ -8,11 +8,11 @@ Repository ini merupakan dokumentasi kegiatan *Workshop Day-1* pada acara TIK Me
 Repository ini bertujuan agar menyimpan dan mengingat kembali serta memahami pembelajaran yang disampaikan selama kegiatan *Workshop Day-1* berjalan.
 ## Dokumentasi Kegitan Workshop Day-1
 ### Rangkuman Materi
-#### Prompt adalah sebuah instruksi atau masukan yang pengguna berikan kepada model untuk mendapatkan hasil tertentu.
-#### Prompt engineering adalah cara merancang instruksi agar AI menghasilkan jawaban yang tepat, relevan, dan sesuai kebutuhan.
-#### GIT adalah version control system yang melacak siapa, kapan, dan apa saja yang sudah diubah dalam 1 file sedangkan 
-#### GIt Hub adalah web untuk menyimpan repository Git secara online dan mendukung kolaborasi.
-#### Essential git command : 
+#### - Prompt adalah sebuah instruksi atau masukan yang pengguna berikan kepada model untuk mendapatkan hasil tertentu.
+#### - Prompt engineering adalah cara merancang instruksi agar AI menghasilkan jawaban yang tepat, relevan, dan sesuai kebutuhan.
+#### - GIT adalah version control system yang melacak siapa, kapan, dan apa saja yang sudah diubah dalam 1 file sedangkan 
+#### - GIt Hub adalah web untuk menyimpan repository Git secara online dan mendukung kolaborasi.
+#### - Essential git command : 
 - git init (untuk memulai repository baru)
 - git add (memindahkan file ke staging area)
 - git commit (menyimpan file ke repository)
