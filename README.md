@@ -1,2 +1,8 @@
 # Day-1-BusSimulator_Siti-Shafiyyah-Munadi
-Nama : Siti Shafiyyah Munadi
+## Informasi Peserta
+- Nama lengkap : Siti Shafiyyah Munadi
+- Kelompok : 09_Bus Simulator
+## Deskripsi Repository
+Repository ini merupakan dokumentasi kegiatan *Workshop Day-1* pada acara TIK Mengajar. Isi dari repository ini sendiri adalah Rangkuman materi, poin-poin penting yang dipelajari, dan pendapat pribadi tentang kegiatan *Workshop Day-1*.
+## Tujuan Repository
+Repository ini bertujuan agar menyimpan dan mengingat kembali serta memahami pembelajaran yang disampaikan selama kegiatan *Workshop Day-1* berjalan.
