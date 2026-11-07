@@ -12,4 +12,5 @@ GIT adalah version control system yang melacak siapa, kapan, dan apa saja yang s
 
 Essensial Git Command
 - git init (untuk memulai repository baru)
-- git add (m
+- git add (memindahkan file ke staging area)
+- git commit (
