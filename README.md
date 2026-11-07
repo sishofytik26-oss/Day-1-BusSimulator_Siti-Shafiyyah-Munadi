@@ -6,20 +6,32 @@
 Repository ini merupakan dokumentasi kegiatan *Workshop Day-1* pada acara TIK Mengajar. Isi dari repository ini sendiri adalah Rangkuman materi, poin-poin penting yang dipelajari, dan pendapat pribadi tentang kegiatan *Workshop Day-1*.
 ## Tujuan Repository
 Repository ini bertujuan agar menyimpan dan mengingat kembali serta memahami pembelajaran yang disampaikan selama kegiatan *Workshop Day-1* berjalan.
+
 ## Dokumentasi Kegitan Workshop Day-1
-### Rangkuman Materi
-#### - Prompt adalah sebuah instruksi atau masukan yang pengguna berikan kepada model untuk mendapatkan hasil tertentu.
-#### - Prompt engineering adalah cara merancang instruksi agar AI menghasilkan jawaban yang tepat, relevan, dan sesuai kebutuhan.
-#### - GIT adalah version control system yang melacak siapa, kapan, dan apa saja yang sudah diubah dalam 1 file sedangkan 
-#### - GIt Hub adalah web untuk menyimpan repository Git secara online dan mendukung kolaborasi.
-#### - Essential git command : 
+
+### 1. Rangkuman Materi
+#### => Prompt adalah sebuah instruksi atau masukan yang pengguna berikan kepada model untuk mendapatkan hasil tertentu.
+#### => Prompt engineering adalah cara merancang instruksi agar AI menghasilkan jawaban yang tepat, relevan, dan sesuai kebutuhan.
+
+#### => GIT adalah version control system yang melacak siapa, kapan, dan apa saja yang sudah diubah dalam 1 file sedangkan 
+#### => GIt Hub adalah web untuk menyimpan repository Git secara online dan mendukung kolaborasi.
+#### => Essential git command : 
 - git init (untuk memulai repository baru)
 - git add (memindahkan file ke staging area)
 - git commit (menyimpan file ke repository)
-#### Essential Git to Github command
+#### => Essential Git to Github command
 - git remote add <name> <url> //Add (untracked file or unstaged changes)
 - git push origin main (Push the current) 
 - git pull origin main (mengambil perubahan dari remote lalu menggabungkannya ke branch lokal)
 
-### 
+### 2. Poin-Poin Penting 
+- Rumus prompt yang baik : Role + Task + Context + Format.
+
+Jika instruksi yang diberikan jelas dan spesifik , maka hasil yang dibuat oleh AI sesuai.
+
+- Git = alat untuk mengelola perubahan kode.
+- GitHub = tempat menyimpan repository Git secara online dan berkolaborasi.
+
+###  3. Pendapat pribadi tentang kegiatan *Workshop Day-1*
+Materi atau pelajaran yang sudah dijelaskan membuat saya lebih terbuka mengenai apa perbedaan dari git dan git hub itu sendiri. Meski selama acara saya merasa pegal dan ngantuk, saya merasa pemaparan materi yang di sampaikan pada *Worshop Day-1* ini sangat bermanfaat bagi saya untuk kedepannya.
  
